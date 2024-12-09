@@ -4,7 +4,7 @@ export default function About() {
   return (
     <>
       <div>
-        <h1 >About Page</h1>
+        <h1 className="bg-slate-500">About Page</h1>
         <p >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
           rerum alias nulla facilis delectus doloribus saepe hic iusto,
